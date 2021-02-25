@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(#ff0000, #800080);
+    margin-top: 50px;
+}
+
+.about {
+    color: #0D0C6B;
+    font-weight: bold;
+}
+
+.likes {
+    color: #003300;
+    font-weight: bold;
+}
+
+h1 {
+    color: #0D0C6B;
+    font-weight: bold;
+    font-size: 48px;
+    font-family: Goldman;
+}
+
+h2 {
+    font-family: Oswald;
+    font-size: 32px;
+}
+
+
+
+
+li,
+p {
+    font-size: 24px;
+    line-height: 1.5;
+    font-family: Oxygen;
+}
+
+a {
+    border-bottom: 3px solid #000;
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #000;
+    color: #fff;
+}
